@@ -9,18 +9,10 @@ title = "Adventures in Corporate Real Estate"
 URL = "contact"
 name = "Contact"
 weight = 1
-[[menu.footer]]
-URL = "tools"
-name = "tools"
-weight = 2
 [[menu.main]]
 URL = "contact"
 name = "Contact"
 weight = 1
-[[menu.main]]
-URL = "tools"
-name = "tools"
-weight = 2
 [outputs]
 home = ["HTML", "AMP", "RSS", "JSON"]
 [params]
