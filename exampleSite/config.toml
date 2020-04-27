@@ -53,7 +53,7 @@ link = "plugins/search/mark.js"
 link = "plugins/search/search.js"
 [params.preloader]
 enable = false
-preloader = ""
+preloader = "Adventures in Corporate Real Estate"
 [params.search]
 enable = true
 [[params.social]]
