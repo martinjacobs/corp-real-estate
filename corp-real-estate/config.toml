@@ -5,22 +5,9 @@ paginate = "5"
 summaryLength = "10"
 theme = "northendlab-hugo"
 title = "Adventures in Corporate Real Estate"
-[[menu.footer]]
-URL = "contact"
-name = "Contact"
-weight = 1
-[[menu.footer]]
-URL = "tools"
-name = "tools"
-weight = 2
-[[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 1
-[[menu.main]]
-URL = "tools"
-name = "tools"
-weight = 2
+[menu]
+footer = []
+main = []
 [outputs]
 home = ["HTML", "AMP", "RSS", "JSON"]
 [params]
