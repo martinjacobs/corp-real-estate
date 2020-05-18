@@ -1,6 +1,6 @@
 +++
 author = "Kate Jacobs"
-categories = ["Meta Data"]
+categories = []
 date = 2020-11-03T05:00:00Z
 description = "Description"
 image = "/images/post/post-1.jpg"
