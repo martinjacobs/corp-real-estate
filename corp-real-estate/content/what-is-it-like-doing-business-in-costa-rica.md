@@ -1,12 +1,11 @@
 +++
-title = "What is it like doing business in Costa Rica"
-image = "/images/post/post-1.jpg"
 author = "Kate Jacobs"
+categories = ["Meta Data"]
 date = 2020-11-03T05:00:00Z
 description = "Description"
-categories = ["Meta Data"]
+image = "/images/post/post-1.jpg"
+title = "What is it like doing business in Costa Rica"
 type = "post"
 
 +++
-
-
+Hello World!
