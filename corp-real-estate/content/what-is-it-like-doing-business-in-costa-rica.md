@@ -2,9 +2,9 @@
 author = "Kate Jacobs"
 categories = []
 date = 2001-09-01T04:00:00Z
-description = "Description"
+description = "What is it like doing business in Costa Rica"
 image = "/images/post/post-1.jpg"
-title = "What is it like doing business in Costa Rica"
+title = "Quirky Costa Rica"
 type = "post"
 
 +++
