@@ -24,5 +24,3 @@ fields:
   name: type
   label: type
   default: post
-pages:
-- corp-real-estate/content/test4.md
