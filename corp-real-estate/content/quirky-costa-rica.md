@@ -8,7 +8,7 @@ title = "The Truth About Free Trade Zones"
 type = "post"
 
 +++
-Is it worth it for American companies to set up business operations in Free trade Zones? This blog offers lessons learned on the benefits and the hidden costs of the Free Trade Regime in Costa Rica.
+**_Is it worth it for American companies to set up business operations in Free trade Zones? This blog offers lessons learned on the benefits and the hidden costs of the Free Trade Regime in Costa Rica._**
 
 We had a business problem. 70% of our call volume was generated in the Americas, but 70% of our call center personnel were located in Asia Pacific. We needed to balance out our global footprint, and Costa Rica was selected. The availability of talent at relatively lower labor costs, coupled with the free trade incentives, was the deciding factor. We are generally happy with the decision, but there were key lessons learned along the way. Here are some insights after successfully completing the Free Trade
 
