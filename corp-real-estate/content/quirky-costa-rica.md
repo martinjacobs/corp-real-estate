@@ -20,13 +20,7 @@ There are three steps, each managed by a different government entity, that culmi
 
 **2. It’s a marriage with the host government**
 
-Although it may feel like the end of a long process when you finally achieve your free trade approval, it is the beginning of a long relationship with the government. PROCOMER, the government authority who manages free trade compliance, will regularly visit and check you’re on top of your obligations. You have to develop systems and process to maintain asset controls, down to the granularity of tracking
-
-every asset you purchased tax free. Lesson learned: Understand up front the rules and expectations
-
-for ongoing administration so you can start properly from the beginning, because going back and
-
-fixing your documentation is very difficult.
+Although it may feel like the end of a long process when you finally achieve your free trade approval, it is the beginning of a long relationship with the government. PROCOMER, the government authority who manages free trade compliance, will regularly visit and check you’re on top of your obligations. You have to develop systems and process to maintain asset controls, down to the granularity of tracking every asset you purchased tax free. Lesson learned: Understand up front the rules and expectations for ongoing administration so you can start properly from the beginning, because going back and fixing your documentation is very difficult.
 
 **3. Reduced strategic agility**
 
