@@ -1,4 +1,4 @@
-baseURL = "https://examplesite.com/"
+baseURL = "https://priceless-sammet-b81f16.netlify.app/"
 disqusShortname = ""
 languageCode = "en-us"
 paginate = "5"
@@ -21,7 +21,7 @@ home = "Home"
 logo = ""
 [params.banner]
 bgImage = "images/banner/banner-bg.svg"
-image = "images/blog-image.jpeg"
+image = "images/BlogImage.jpeg"
 title = "Adventures <br> in corporate real estate"
 [params.cta]
 description = "Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus."
