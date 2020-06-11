@@ -21,7 +21,7 @@ home = "Home"
 logo = "images/logo.svg"
 [params.banner]
 bgImage = "images/banner/banner-bg.svg"
-image = "images/banner/illustration.svg"
+image = "images/blog-image.jpeg"
 title = "Adventures <br> in corporate real estate"
 [params.cta]
 description = "Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus."
