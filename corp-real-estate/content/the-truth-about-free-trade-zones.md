@@ -44,4 +44,4 @@ Although it is common business practice in the US to hire contractors to fill in
 
 **Takeaways**
 
-Starting business in a new country is a learning curve that requires quick adoption to local culture, laws, and business practices.  Enter the process with a growth mindset and willingness to adapt.  Finding local partners to help you through it is the key to success.
+Starting business in a new country is a learning curve that requires quick adoption to local culture, laws, and business practices.  Enter the process with a growth mindset and ability to adapt.  Finding local partners to help you through it is the key to success.
