@@ -1,7 +1,7 @@
 +++
 author = "Kate Jacobs"
 categories = ["Meta Data"]
-date = 2020-02-02T05:00:00Z
+date = 2020-06-22T04:00:00Z
 description = "What’s it like doing business in Costa Rica?"
 image = "/images/adobestock_san-jose-city.jpeg"
 title = "What’s it like doing business in Costa Rica?"
