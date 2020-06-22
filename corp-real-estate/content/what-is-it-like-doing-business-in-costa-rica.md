@@ -1,9 +1,9 @@
 +++
 author = "Kate Jacobs"
 categories = []
-date = 2001-09-01T04:00:00Z
+date = 2020-06-01T04:00:00Z
 description = "What is it like doing business in Costa Rica"
-image = "/images/post/post-1.jpg"
+image = "/images/adobestock_349447852_colones.jpeg"
 title = "Quirky Costa Rica"
 type = "post"
 
