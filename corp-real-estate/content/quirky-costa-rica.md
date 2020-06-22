@@ -3,7 +3,7 @@ author = "Kate Jacobs"
 categories = []
 date = 2020-02-01T06:00:00Z
 description = "The Truth About Free Trade Zones"
-image = "/images/post/post-1.jpg"
+image = "/images/adobestock_117113797-next-exit-free-trade.jpeg"
 title = "The Truth About Free Trade Zones"
 type = "post"
 
