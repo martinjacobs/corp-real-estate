@@ -4,7 +4,7 @@ categories = []
 date = 2020-06-23T04:00:00Z
 description = "What is it like doing business in Costa Rica?"
 image = "/images/adobestock_san-jose-city.jpeg"
-title = "What's it like doing business in Costa Rica?"
+title = "What is it like doing business in Costa Rica?"
 type = "post"
 
 +++
