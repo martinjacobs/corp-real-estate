@@ -14,13 +14,13 @@ We had a business problem. 70% of our call volume was generated in the Americas,
 
 **1. Getting free trade authorized is a long process**
 
-There are three steps, each managed by a different government entity, that culminate with your approval being signed into law by the President of the country. This whole process can take over three months, and your business will have little control over the timing/approvals of each step. This can put a serious monkey wrench in your business timelines to build out an office or start hiring people. 
+There are three steps, each managed by a different government entity, that culminate with your approval being signed into law by the President of the country. This whole process can take over three months, and your business will have little control over the timing/approvals of each step. This can put a serious monkey wrench in your business timelines to build out an office or start hiring people.
 
 _Lesson Learned: Fast tracking is not realistic. Build out a timeline that includes liberal estimates for deliverables such as entity creation, free trade designation, and establishing bank accounts, all of which take time and are pre-requisites for other critical path activities._
 
 **2. It’s a marriage with the host government**
 
-Although it may feel like the end of a long process when you finally achieve your free trade approval, it is the beginning of a long relationship with the government. PROCOMER, the government authority who manages free trade compliance, will regularly visit and check you’re on top of your obligations. You have to develop systems and process to maintain asset controls, down to the granularity of tracking every asset you purchased tax free. 
+Although it may feel like the end of a long process when you finally achieve your free trade approval, it is the beginning of a long relationship with the government. PROCOMER, the government authority who manages free trade compliance, will regularly visit and check you’re on top of your obligations. You have to develop systems and process to maintain asset controls, down to the granularity of tracking every asset you purchased tax free.
 
 _Lesson learned: Understand up front the rules and expectations for ongoing administration so you can start properly from the beginning, because going back and fixing your documentation is very difficult._
 
@@ -34,9 +34,7 @@ This program is designed to keep you there. You will be faced with penalties inc
 
 Your first audit from PROCOMER will be three months after your free trade application is fully approved.
 
-PROCOMER should have your full respect and attention because they have authority to rescind your status if you fail your audits. The downstream repercussions from losing your status would be dire –
-
-Back taxes would have to be paid, and it could also affect your rights to continue to operate your office within your free trade regime affiliated business park. We did not pass our first audit. However, PROCOMER has been a fair partner to Citrix. They share the goal of us being successful in their country, so they have given us time to refine and improve our processes to reach ultimate success.
+PROCOMER should have your full respect and attention because they have authority to rescind your status if you fail your audits. The downstream repercussions from losing your status would be dire – Back taxes would have to be paid, and it could also affect your rights to continue to operate your office within your free trade regime affiliated business park. We did not pass our first audit. However, PROCOMER has been a fair partner to Citrix. They share the goal of us being successful in their country, so they gave us time to refine and improve our processes to reach ultimate success.
 
 **_Lesson Learned:_** _The audit process is intense, and the government demands perfection._
 
@@ -66,4 +64,4 @@ PROCOMER proactively educates regarding free trade regime obligations, and they 
 
 **_Lesson Learned:_** _Build your village of local expertise to lead the way._
 
-Costa Rica offers high quality human capital and leveraging their free trade incentives can be a great way to access highly trained people at relatively lower costs than the US. Operating your business there isn’t as straightforward as it seems, so make sure you know what you’re getting into.
+Costa Rica offers high quality human capital and leveraging their free trade incentives can be a great way to access highly trained people at relatively lower costs than the US, and all this is located only a three hour flight away from Miami. Operating your business there isn’t as straightforward as it seems, so make sure you know what you’re getting into.
