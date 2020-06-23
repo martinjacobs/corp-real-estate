@@ -8,11 +8,9 @@ title = "What's it like doing business in Costa Rica?"
 type = "post"
 
 +++
-**_This blog covers my experiences setting up business operations in Costa Rica and things I learned along the way_**
-
 Time was tight. Our business had a firm commitment to start hiring within 6 months to support their growth plans, but we were starting at zero. We had no presence, no experience, no in country connections. How did we get it done?
 
-I am taking stock of the things I wish I had known at the beginning, and looking ahead to the next year of maturing our operations and preparing for our first audit.
+I am taking stock of the things I wish I had known at the beginning, and looking ahead to the future of maturing our operations.
 
 **Dependencies everywhere**
 
@@ -28,7 +26,7 @@ Labor might be cheaper, but other things are more expensive: Very few goods are 
 
 Getting through all the bureaucratic steps to achieve your Free Trade “Zona Franca” status might feel like the end of a long process. You will by this time have survived completing your application submission, made several revisions prior to PROCOMER approval, waited through COMEX review and approval, and finally achieved signature by the president of Costa Rica. Only then to realize you must then apply for and receive your Customs Declaration “H” number (Customs needs this number before you can import anything tax free) and then getting your sanitation and operations permits so that you can officially start operations in the country. By this time you might think your interactions with the Costa Rican government is winding down. But, no. You will have an ongoing relationship with PROCOMER, who will stop by to conduct a training (in Spanish only, see “Tico time” below) to educate you about how to stay compliant within the regime through annual audits, and how to communicate with them should you need to “export” any good out of the FTZ area, which is essentially treated like its own mini country within a country for even minor routine activities like computer and copier repairs, and how you will be required to account for every asset each year during the audit. Look forward to developing special processes for how to asset tag every good in your office, and account for all the money you spend with the free trade regime.
 
-**Customs Brokerage** 
+**Customs Brokerage**
 
 There’s no way around it, this is just a cost of doing business if you are in a free trade regime. You will need one to represent you, to help you prepare the complex paperwork and to pull your shipments out of Customs and deliver it to your premises. The earlier you engage one the better because they are a wealth of knowledge about how to navigate the import process. They become consultants in how to successfully navigate the system in addition to a transactional partner. You should absolutely interview several and terms are completely negotiable, although they won’t tell you this up front.
 
@@ -56,7 +54,7 @@ Street addresses are descriptive and lack numbering conventions. An attempt was 
 
 More often than not, large companies we are used to doing business with do not have established operations in Costa Rica, and we were forced to establish new partnerships rather than extend existing ones. Many enterprises are family run affairs, which definitely has its positive side as you are cultivating meaningful relationships with a small network of people, rather than the bureaucracy of a large enterprise. However, it has its downsides too, as they don’t carry property and general liability insurances to US norms. It’s not realistic to expect them to meet US standards in this area so some education with back at HQ with procurement, risk, and other departments early in the project is recommended to decide up front how your company will adjust its policies to meet local norms.
 
-**Local Accountants** 
+**Local Accountants**
 
 In addition to payroll and making local payments for goods and services rendered in country, they are experts in how to keep the paperwork that is required for the annual PROCOMER audit. It’s best to hire locally to a group that is experienced in how to keep the documentation and multiple years of physical receipts on your behalf.
 
