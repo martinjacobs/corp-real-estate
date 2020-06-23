@@ -53,7 +53,7 @@ preloader = ""
 enable = true
 [[params.social]]
 icon = "ti-twitter-alt"
-link = "facilitease"
+link = "https://twitter.com/facilitease"
 [[params.social]]
 icon = "ti-linkedin"
 link = "https://www.linkedin.com/in/kate-jacobs-mba-mcr-pmp-2b2b731/"
