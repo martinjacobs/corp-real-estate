@@ -32,9 +32,7 @@ This program is designed to keep you there. You will be faced with penalties inc
 
 **4. Get ready for lots of audits**
 
-Your first audit from PROCOMER will be three months after your free trade application is fully approved.
-
-PROCOMER should have your full respect and attention because they have authority to rescind your status if you fail your audits. The downstream repercussions from losing your status would be dire – Back taxes would have to be paid, and it could also affect your rights to continue to operate your office within your free trade regime affiliated business park. We did not pass our first audit. However, PROCOMER has been a fair partner to Citrix. They share the goal of us being successful in their country, so they gave us time to refine and improve our processes to reach ultimate success.
+Your first audit from PROCOMER will be three months after your free trade application is fully approved.  PROCOMER should have your full respect and attention because they have authority to rescind your status if you fail your audits. The downstream repercussions from losing your status would be dire – Back taxes would have to be paid, and it could also affect your rights to continue to operate your office within your free trade regime affiliated business park. We did not pass our first audit. However, PROCOMER has been a fair partner to Citrix. They share the goal of us being successful in their country, so they gave us time to refine and improve our processes to reach ultimate success.
 
 **_Lesson Learned:_** _The audit process is intense, and the government demands perfection._
 
