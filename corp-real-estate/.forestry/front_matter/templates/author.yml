@@ -11,3 +11,5 @@ fields:
 - type: file
   name: image
   label: image
+pages:
+- corp-real-estate/content/author/kate-jacobs-mba-mcr-pmp.md
