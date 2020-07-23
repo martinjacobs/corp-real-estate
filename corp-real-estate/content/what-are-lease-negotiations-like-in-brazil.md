@@ -4,7 +4,7 @@ categories = []
 date = 2020-07-02T04:00:00Z
 description = "Important things to know before negotiating a lease in Brazil"
 draft = true
-image = ""
+image = "/images/adobestock_315356384_sao-paulo.jpeg"
 title = "What are lease negotiations like in Brazil?"
 type = "post"
 
