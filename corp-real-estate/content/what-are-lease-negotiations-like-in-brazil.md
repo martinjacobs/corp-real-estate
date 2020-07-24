@@ -8,7 +8,7 @@ title = "What are lease negotiations like in Brazil?"
 type = "post"
 
 +++
-**In 2017 I negotiated a lease in a prime building in São Paulo.  At the three year anniversary of the lease execution, the landlord initiated a rent review, requesting to renegotiate rental rates.  What is this, you may ask? This is a 5 year lease! What is going on?**
+**In 2017 I negotiated a corporate lease in a prime building in São Paulo.  At the three year anniversary of the lease execution, the landlord initiated a rent review, requesting to renegotiate rental rates.  What is this, you may ask? This is a 5 year lease! What is going on?**
 
 **Local Law is King**
 
